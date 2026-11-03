@@ -2,7 +2,7 @@
   "name": "SMKAMi – Aplikasi Guru",
   "short_name": "SMKAMi",
   "start_url": "./",
-  "display": "browser",
+  "display": "standalone",
   "background_color": "#0b3fd1",
   "theme_color": "#0b3fd1",
   "icons": [
